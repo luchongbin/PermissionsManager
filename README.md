@@ -1,7 +1,8 @@
 # PermissionsManager
 android 权限管理 兼容 6.0以上（包括7、8、9）
 ## 先来个效果图  
-![效果图](https://github.com/luchongbin/PermissionsManager/blob/master/gif/gif.gif)
+![效果图](https://github.com/luchongbin/PermissionsManager/blob/master/gif/gif.gif)  
+[![](https://jitpack.io/v/luchongbin/PermissionsManager.svg)](https://jitpack.io/#luchongbin/PermissionsManager)
 ## 添加依赖  
 1、Add the JitPack repository to your build file  
    Add it in your root build.gradle at the end of repositories:  
