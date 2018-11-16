@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.luchongbin.lcbpermissionsmanager">
+
+    <application>
+        <activity
+            android:name=".LCBCPActivity"
+            android:launchMode="singleTask" />
+    </application>
+</manifest>
