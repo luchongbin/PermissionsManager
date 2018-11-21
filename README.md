@@ -17,7 +17,7 @@ android 权限管理 兼容 6.0以上（包括7、8、9）
 2、Add the dependency  
 ```
 dependencies {
-	        implementation 'com.github.luchongbin:PermissionsManager:1.0.1'
+	        implementation 'com.github.luchongbin:PermissionsManager:v1.0.0'
 	}
 ```
 ## 使用说明  
